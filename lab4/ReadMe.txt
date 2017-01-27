@@ -1,5 +1,5 @@
 ﻿========================================================================
-                  lab3   jinjinqin  chengzhen  t.yin
+                  lab3   jinjinqin  chengzhen 
 ========================================================================
 
 GameBase.h & GameBase.cpp: GameBase
